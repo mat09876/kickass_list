@@ -1,0 +1,9 @@
+.wrap{
+  display: flex;
+  flex-wrap: wrap;
+}
+.app__list__list-item{
+  border: 1px solid #ccc;
+    padding: 20px;
+    margin-right: 10px;
+}
